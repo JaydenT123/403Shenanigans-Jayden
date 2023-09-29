@@ -27,7 +27,7 @@ shepherd
 shrop-shire
 simon
 sulzer
-tar-rinse
+[x] tar-rinse
 virga
 weinray-burr
 [x] Kyle
